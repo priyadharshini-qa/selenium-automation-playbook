@@ -1,0 +1,32 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build tools
+target/
+build/
+out/
+*.class
+
+# Logs & reports
+*.log
+test-output/
+reports/
+allure-results/
+allure-report/
+
+# Environment / secrets
+.env
+*.env.local
+config.local.properties
+
+# Dependency directories
+node_modules/
